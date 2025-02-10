@@ -18,7 +18,7 @@ public class Soma {
 		soma = nota1 + nota2;
 		media = (nota1 + nota2) / 2;
 		System.out.println("A soma das notas é = " + soma);
-		System.out.print("Sua Média é = " + media);
+		System.out.print(String.format"%, args))("Sua Média é = " + media);
 		sc.close();
 
 	}
